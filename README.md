@@ -2,7 +2,7 @@
 (Personal Project)
 
 
-I have designed  and  implement  a  Java  console-based  application  for  event  management.
+I have designed  and  implement  a  Java  console-based  application  for  event  management and storing data using file handling.
 
 
 Outline of the applicatoin:
